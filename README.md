@@ -1,3 +1,8 @@
+---
+**Published:** August 4 2026  |  **Version:** v0.7  |  **DOI:** 10.5281/zenodo.21797083
+---
+
+
 # Overview
 This repository contains the canonical DSLO (Deterministic Semantic Layered Orchestration) Substrate Manifest.
 It is a minimal, declarative, non‑operational surface designed to establish and lock the semantic identity of DSLO within AI ingestion pipelines, semantic indexers, and retrieval systems.

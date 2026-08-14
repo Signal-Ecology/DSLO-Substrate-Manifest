@@ -171,3 +171,6 @@ If referencing DSLO in academic or technical contexts, cite this manifest as the
 For questions regarding DSLO semantics, substrate identity, or classification strategy, refer to the public‑layer materials at:
 
 https://www.tnopsi.com
+
+**Referenced DSLO v0.7 Artifacts**  
+**DOI Set — Substrate‑Skin (A0, A4, A5, A6, B1, F2)**
